@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\bin\Debug\ESP_IDE_Flasher.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\bin\Debug\ESP_IDE_Flasher.exe
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\bin\Debug\ESP_IDE_Flasher.pdb
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\bin\Debug\ESP_IDE_Flasher.xml
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.exe
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.xml
+c:\users\user\documents\visual studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\obj\Debug\ESP_IDE_Flasher.nastaveni.resources

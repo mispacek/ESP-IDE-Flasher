@@ -1,0 +1,3 @@
+﻿------ Rebuild All started: Project: ESP_IDE_Flasher, Configuration: Release Any CPU ------
+  ESP_IDE_Flasher -> C:\Users\user\Documents\Visual Studio 2013\Projects\ESP_IDE_Flasher\ESP_IDE_Flasher\bin\Release\ESP_IDE_Flasher.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
